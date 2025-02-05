@@ -1,7 +1,4 @@
-# BERT-ATTACK
-
-Code for our EMNLP2020 long paper:
-
+The following is a fork of BERT-ATTACK, used for evaluating the robustness of BERT-like LLMs. All credit to the original authors for the implementation details! You can find their paper below:
 *[BERT-ATTACK: Adversarial Attack Against BERT Using BERT](https://arxiv.org/abs/2004.09984)*
 
 
