@@ -1,0 +1,13 @@
+name: bert_attack_2
+channels:
+- conda-forge
+- huggingface
+- pytorch
+dependencies:
+- python=3.8
+- pytorch
+- pytorch-cuda=11.8
+- torchaudio
+- torchvision
+- transformers
+
